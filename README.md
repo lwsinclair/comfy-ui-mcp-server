@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jonpojonpo-comfy-ui-mcp-server-badge.png)](https://mseep.ai/app/jonpojonpo-comfy-ui-mcp-server)
+
 # comfy-ui-mcp-server MCP server
 
 A server for connnecting to a local comfyUI
